@@ -1,0 +1,29 @@
+body {
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+.todo-box {
+  max-width: 350px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.header {
+  text-align: center;
+}
+.jumbotron {
+    padding: 0px;
+}
+.todo-desc {
+    padding-left: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.checkbox {
+    margin: 0px;
+}
+.form-group {
+  margin-bottom: 0px;
+}
+.deleted {
+  text-decoration: line-through;
+}
